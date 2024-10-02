@@ -52,7 +52,7 @@ To make smart home technology accessible and affordable for every home in Algeri
 ## 🤝 **Join Us**
 We are constantly growing! If you are passionate about smart home technology and want to be part of our mission, feel free to contribute, collaborate, or reach out to us.
 
-- **GitHub**: github.com/RAYANaouf
+- **GitHub**: https://github.com/RAYANaouf/
 - **Email**: rayanaouf1512@gmail.com 
 - **Website**: coming soon.
 
