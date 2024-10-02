@@ -25,3 +25,40 @@ Efficiently track and manage smart home products with our inventory management s
 - **Real-time inventory updates** 📦
 - **Seamless product integration** ⚙️
 - **Cloud-based monitoring and control** ☁️
+---
+
+## 💻 **Technologies We Use**
+
+- **Internet of Things (IoT)** for device connectivity
+- **ERP Systems** (like ERPNext) for inventory and order management
+- **Mobile Development** using **Kotlin** and **Flutter**
+- **Cloud Platforms** for data storage and processing (AWS, Google Cloud, etc.)
+
+---
+
+## 🚀 **Our Projects**
+
+1. **Smart Home Control App** 📱: A mobile application allowing users to manage and control their smart home devices effortlessly.
+2. **Smart Inventory Management System** 🛠️: A cloud-based system to keep track of smart home products and optimize inventory.
+3. **Home Automation Kits** 🏠: Pre-configured smart home devices bundled with easy installation guides for Algerian homeowners.
+
+---
+
+## 📈 **Our Mission**
+To make smart home technology accessible and affordable for every home in Algeria, improving daily life with automation, security, and sustainability.
+
+---
+
+## 🤝 **Join Us**
+We are constantly growing! If you are passionate about smart home technology and want to be part of our mission, feel free to contribute, collaborate, or reach out to us.
+
+- **GitHub**: github.com/RAYANaouf
+- **Email**: rayanaouf1512@gmail.com 
+- **Website**: coming soon.
+
+---
+
+## 📞 **Contact Us**
+- **Email**: rayanaouf1512@gmail.com 
+- **Phone**: 0795502905
+- **Social Media**: coming soon.
